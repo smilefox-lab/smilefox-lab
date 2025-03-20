@@ -18,7 +18,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vshashkov&show_icons=true" alt="smilefox-lab"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smilefox-lab&show_icons=true" alt="smilefox-lab"/>
     <img src="https://media.giphy.com/media/lCP95tGSbMmWI/giphy.gif" alt="minion"/>
 </p>
 
