@@ -9,6 +9,11 @@
   <img src="https://media.giphy.com/media/cnuS67F8IoVTYRvJXE/source.gif" alt="smilefox-lab"/>
 </p>
 
+<br/> https://calendly.com/atsushi-nomura
+<br/> https://atsushi-portfolio.vercel.app/
+<br/> https://www.hackerrank.com/profile/nomuratech
+<br/> https://www.guru.com/freelancers/nomuratech
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smilefox-lab" alt="smilefox-lab" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
