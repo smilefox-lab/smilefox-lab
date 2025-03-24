@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smilefox-lab" alt="smilefox-lab" />
-  [![GitHub followers](https://img.shields.io/github/followers/Abhinav-Kotta?label=Follow&style=social)](https://github.com/smilefox-lab)
 </p>
   
 <p align="center">
