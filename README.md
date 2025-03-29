@@ -16,7 +16,8 @@
   <a href="https://www.guru.com/freelancers/nomuratech" target="_blank" rel="noreferrer">GURU ACCOUNT</a>
 </div>
 
-
+<br/>
+<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smilefox-lab" alt="smilefox-lab" />
 </p>
