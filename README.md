@@ -9,10 +9,13 @@
   <img src="https://media.giphy.com/media/cnuS67F8IoVTYRvJXE/source.gif" alt="smilefox-lab"/>
 </p>
 
-<br/> [BOOK CALL](https://calendly.com/atsushi-nomura/30min)
-<br/> [PORTFOLIO](https://atsushi-portfolio.vercel.app/)
-<br/> [HACKER RANK](https://www.hackerrank.com/profile/nomuratech)
-<br/> [GURU ACCOUNT](https://www.guru.com/freelancers/nomuratech)
+<div align="center">
+  <a href="https://calendly.com/atsushi-nomura/30min" target="_blank" rel="noreferrer">BOOK CALL</a> |
+  <a href="https://atsushi-portfolio.vercel.app/" target="_blank" rel="noreferrer">PORTFOLIO</a> |
+  <a href="https://www.hackerrank.com/profile/nomuratech" target="_blank" rel="noreferrer">HACKER RANK</a> |
+  <a href="https://www.guru.com/freelancers/nomuratech" target="_blank" rel="noreferrer">GURU ACCOUNT</a>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smilefox-lab" alt="smilefox-lab" />
