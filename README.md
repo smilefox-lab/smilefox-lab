@@ -20,14 +20,14 @@
 
 <br/>
 <br/>
-<!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smilefox-lab" alt="smilefox-lab" />
-</p>-->
-  
+</p>
+  <!--
 <p align="center">
     <img width="500" src="https://media.giphy.com/media/lCP95tGSbMmWI/giphy.gif" alt="minion"/>
-</p>
+</p>-->
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align="center" style="display: flex; gap: 10px;">
